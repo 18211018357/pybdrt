@@ -1,6 +1,3 @@
-BDRT DBAPI Driver and Sqlalchemy Dialect
-==============================
-
 Installation
 ------------
 
