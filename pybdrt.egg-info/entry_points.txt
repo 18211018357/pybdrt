@@ -1,0 +1,3 @@
+[sqlalchemy.dialects]
+bdrt = pybdrt.dialect:BdrtDialect
+
