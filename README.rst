@@ -18,9 +18,3 @@ More info
 ---------
 
  * http://www.sqlalchemy.org/
-
-
-Authors
--------
-
- * liuxg
